@@ -150,7 +150,7 @@ function App() {
             </div>
             <div className="overflow-hidden rounded-lg shadow-md">
               <img 
-                src="https://images.unsplash.com/photo-1593113598332-cd59a93f9f81?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                src="https://slikesaprotestauzaplanju.netlify.app/images/480785097_10235532873650849_755806741591649722_n.jpg" 
                 alt="Solidarnost na protestu" 
                 className="w-full h-64 object-cover hover:scale-105 transition-transform duration-300"
               />
